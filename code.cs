@@ -76,11 +76,11 @@ namespace code
                                             }    
                                     else if (userQuestion == supera)
                                     {
-                                        Console.WriteLine(players);
+                                Console.WriteLine(players);
                                     }
-                                else 
+                            else 
                                 {
-                            Console.WriteLine(giveUpAnswer);
+                        Console.WriteLine(giveUpAnswer);
                                 }             
                                                                                         
 
